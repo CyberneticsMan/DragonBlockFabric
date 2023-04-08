@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "me.cyberneticsman.dbf.DragonBlockFabric"
+    ],
+    "client": [
+      "me.cyberneticsman.dbf.client.DragonBlockFabricClient"
     ]
   },
   "mixins": [
