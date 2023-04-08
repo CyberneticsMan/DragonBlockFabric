@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "dbf",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Dragon Block Fabric",
+  "description": "A fabric dragon ball mod inspired by Dragon Block C!",
   "authors": [
     "Me!"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://mahdiar.giahi.org/",
+    "sources": "https://github.com/CyberneticsMan/DragonBlockFabric/"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/dbf/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "me.cyberneticsman.dbf.DragonBlockFabric"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "dbf.mixins.json"
   ],
 
   "depends": {
