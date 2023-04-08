@@ -1,3 +1,3 @@
 # Dragon Block Fabric
 
-DragonBlockFabric
+A fabric dragon ball mod inspired by Dragon Block C!
